@@ -11,11 +11,10 @@
 - PHP 7.2
 - Xdebug 2.9.8
 - MariaDB 10.4.13
-- Elasticsearch 7.6
-- Varnish 6.4
 - Redis
 - MailHog
 - n98-magerun
+- Gulp
 
 ### Requirements
 
